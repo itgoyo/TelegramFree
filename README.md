@@ -121,7 +121,7 @@
 
 1.  在 Google Play 下载 **Telegram X**（官方推出的轻量版，黑色图标）
 
-2.  使用 Telegram X 完成注册
+2.  使用 [Telegram X](https://github.com/TGX-Android/Telegram-X) 完成注册
 
 3.  注册成功后，账号是通用的
 
